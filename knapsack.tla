@@ -96,8 +96,4 @@ Spec == Init /\ [][Next]_vars
 
 Termination == <>(pc = "Done")
 
-\* END TRANSLATION
-=============================================================================
-\* Modification History
-\* Last modified Mon Jan 06 21:29:55 CST 2020 by acook
-\* Created Mon Jan 06 20:36:52 CST 2020 by acook
+

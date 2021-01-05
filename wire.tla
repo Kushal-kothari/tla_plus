@@ -75,8 +75,4 @@ Spec == Init /\ [][Next]_vars
 
 Termination == <>(\A self \in ProcSet: pc[self] = "Done")
 
-\* END TRANSLATION
-=============================================================================
-\* Modification History
-\* Last modified Sat Nov 09 22:37:35 CST 2019 by acook
-\* Created Wed Nov 06 18:15:46 CST 2019 by acook
+

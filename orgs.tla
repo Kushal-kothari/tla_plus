@@ -23,7 +23,3 @@ A permission can be assigned to multiple users
 This is a many to many relationship between permissions and users
 *)
 
-=============================================================================
-\* Modification History
-\* Last modified Tue Nov 26 15:47:49 CST 2019 by acook
-\* Created Tue Nov 26 15:35:23 CST 2019 by acook
